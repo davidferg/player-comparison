@@ -1,4 +1,4 @@
-# player-comparator ⚽ 📊
+# player-comparison ⚽ 📊
 
 This is my first project using Python after studying some courses on [DataCamp.com](https://www.datacamp.com/tracks/data-scientist-with-python)
 
