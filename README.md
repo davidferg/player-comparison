@@ -10,4 +10,4 @@ You can find the App here: [davidfernandez.dev](http://davidfernandez.dev). It's
 
 Contant me on [LinkedIn](https://www.linkedin.com/in/david-fernandez-11a715170/). Looking for my first job as a Data Analyst :)
 
-![example](ex.jpg)
+![example](example_pic.jpg)
