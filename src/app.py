@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import numpy as np
 
 # This code creates a Dash App to visualise football players stats.
-# I've used a database with random values for each player because I don't have the actual ones.
+# I'm using a database with random values for each player because I don't have the actual ones.
 # The app is deployed on Heroku following this tutorial: https://dash.plotly.com/deployment
 
 
