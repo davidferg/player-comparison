@@ -149,8 +149,8 @@ app.layout = html.Div(children=[
                              ),
 
                     html.H1(id='main_header',
-                            children=html.Div(['Player comparator ',
-                                               html.Span("I've used a database with random values for each player because I don't have the actual ones.", style={'color': 'rgb(176, 176, 176)',
+                            children=html.Div(['Player comparison ',
+                                               html.Span("I'm using a database with random values for each player because I don't have the actual ones.", style={'color': 'rgb(176, 176, 176)',
                                                                        'font-size':20}),
                                                 ]),
                             style={
