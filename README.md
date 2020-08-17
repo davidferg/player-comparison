@@ -2,7 +2,7 @@
 
 This is my first project using Python after studying some courses on [DataCamp.com](https://www.datacamp.com/tracks/data-scientist-with-python)
 
-I'm using a database with random values for each player because I don't have the actual ones.
+It reads a database with random values because I can’t publish the actual ones.
 
 The user can select multiple players and compare stats in a radar chart. The dashboard is built with Dash and Plotly.
 
